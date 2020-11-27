@@ -1,0 +1,165 @@
+/* Navbar Styling */
+
+.navbar {
+    background-color: white;
+    
+}
+
+.navbar li a {
+    color: teal;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    margin: 0 10px;
+}
+
+.navbar li a:hover {
+    color: teal;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+.navbar-brand {
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+}
+
+/* Jumbotron Styling */
+
+#head_jumbotron img{
+    height: 200px;
+    width: auto;
+}
+
+#head_jumbotron {
+    color: rgb(255,255,255); 
+}
+
+#head_jumbotron h1 {
+    font-size: 3rem;
+}
+
+#head_jumbotron h3 {
+    font-size: 2.2rem;
+}
+
+.jumbotron {
+    background-color: rgb(64, 167, 177);
+    box-shadow: 1px 1px 5px gray;
+}
+/* About Me */
+
+#AboutMe {
+    margin-top: 75px;
+}
+
+/* Skills */
+
+#Skills svg.svg-inline--fa {
+    font-size: 5rem;
+    margin: auto;
+    color: teal;
+    margin: 25px;
+}
+
+#Skills svg.svg-inline--fa:hover {
+    color: turquoise!important;
+    font-size: 5.2rem;
+}
+
+/* Project Showcase */
+
+#Showcase {
+    margin-top: 75px;
+}
+
+.cap1 h3 {
+    color: teal;
+}
+
+.cap1 p {
+    color: turquoise;
+    font-size: 1.1rem;
+}
+
+.carousel-indicators li {
+    display: none;
+}
+
+#ProjectShowcase img {
+    width: 100%;
+    height: 400px;
+    padding: 30px 0;
+}
+
+.cap1 {
+    margin-top: 15px;
+}
+/* Work History */
+
+#WorkHistory {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#WorkHistory h1 {
+    font-size: 2rem;
+    text-decoration: underline turquoise;
+}
+
+#WorkHistory h3 {
+    font-size: 1.3rem;
+    text-decoration: underline teal;
+}
+
+#WorkHistory h4 {
+    font-size: 1rem;
+    font-style: italic;
+    color: teal;
+}
+
+#WorkHistory h6 {
+    font: 0.8rem;
+    font-weight: 200;
+}
+
+/* Testimonial Cards */
+
+#Testimonials .card {
+    margin-top: 50px;
+    box-shadow: 2px 2px 3px gray;
+}
+
+#Testimonials {
+    margin-top: 50px;
+}
+
+.card-header {
+    background-color: lightseagreen;
+    color: paleturquoise;
+    font-size: 1.1rem;
+}
+
+/* Footer */
+
+#Footer {
+    background-color: paleturquoise;
+    margin-top: 100px;
+}
+
+#Contact {
+    color: teal;
+}
+
+#Contact svg.svg-inline--fa {
+    font-size: 1.7rem;
+    margin: auto;
+    color: teal;
+    margin: 25px;
+}
+
+#Contact svg.svg-inline--fa:hover {
+    color: turquoise!important;
+    font-size: 1.8rem;
+}
